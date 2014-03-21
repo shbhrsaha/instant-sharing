@@ -3,7 +3,7 @@ instant-sharing
 ===
 This is a super-simple script lets you instantly share files across a local network with SimpleHTTPServer. See http://www.princeton.edu/~saha/instant-sharing/ for more information.
 
-INSTALLATION INSTRUCTIONS
+Installation
 ---
 For the best experience, download share.py and run these commands on a Unix system:
 

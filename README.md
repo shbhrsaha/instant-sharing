@@ -3,6 +3,12 @@ instant-sharing
 ===
 This is a super-simple script lets you instantly share files across a local network with SimpleHTTPServer. See http://www.princeton.edu/~saha/instant-sharing/ for more information.
 
+![](screenshot.png)
+
+How it Works
+---
+This Python script lets you run a simple command from any directory and a SimpleHTTPServer instance will be opened at the specified port #. In addition, you'll get a URL that includes your IP address so you can easily share the directory with friends.
+
 Installation
 ---
 For the best experience, download share.py and run these commands on a Unix system:
